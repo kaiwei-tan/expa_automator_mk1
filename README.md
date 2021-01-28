@@ -9,4 +9,4 @@ Notes:
 - AIESEC in NUS has two Outgoing Exchange departments handling two different products (then named OGV and OGT), hence data is segregated for the convenience of both departments.
 - As EXPA data is restricted to AIESEC members only, <b>"2018_ep_demo.txt"</b> only contains one fictional customer (but with information conveyed in the same schema) for demonstration purposes.
 
-I subsequently improved on this project using R to automatically scrape and process data from EXPA API.
+I subsequently improved on this project using R to automatically scrape and process data from EXPA API, you may refer to it [here](https://github.com/kaiwei-tan/expa_automator_mk2/).
